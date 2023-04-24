@@ -2,10 +2,10 @@
 Super Bowl LVII Prediction
 
 
-Using Data from 2018-2022:
-Using Random Forest Regressor:
-Prediction for Kansas: 28
-R-squared: 0.24
+Using Data from 2018-2022:  
+Using Random Forest Regressor:  
+Prediction for Kansas: 28  
+R-squared: 0.24    
 MSE: 48.69
 MAPE: 0.19
 Prediction for Philadelphia: 24
