@@ -33,7 +33,8 @@ R-squared: 0.24
 MSE: 52.8  
 MAPE: 0.33  
 
-Using 2022 Data:  
+Using 2022 Data:
+Using Linear Regression:
 Prediction for Kansas: 28  
 Prediction for Philadelphia: 38  
 
